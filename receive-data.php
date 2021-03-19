@@ -29,6 +29,7 @@
 
             for ($x = 1; $x <= $_POST["time"]; $x++) {
                 echo "The number is: $x <br>";
+                echo "<br>";
             }
         }
 
